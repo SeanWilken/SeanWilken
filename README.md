@@ -6,7 +6,6 @@ Strongest in **F#**, **TypeScript**, **React**, **Python**, and **C#**. My work 
 
 ## Featured Work
 - **SeanWilkenWeb** — portfolio and print-on-demand e-commerce platform built with F#, Fable, Elmish, React, Stripe, and Printful
-- **Remindify** — customer-facing dashboards, onboarding flows, internal tools, automation, billing, analytics, and AI-powered personalization
 - **kairos-core** — Contract-first runtime backbone for orchestration, governance, tenancy, and audit-safe AI operations across the Kairos product family.
 - **kairos-studio** — Operator-focused control plane for configuring organizations, personas, tools, workflows, and knowledge with guided setup and production readiness checks.
 - **kairos-ui (@kairosstack/ui)** — Shared React component system (shadcn-based) powering consistent, modular UX across Kairos apps while staying domain-agnostic and contract-compatible.
